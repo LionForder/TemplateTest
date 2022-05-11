@@ -1,0 +1,6 @@
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/bin/Debug/TemplateTest.exe
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/bin/Debug/TemplateTest.pdb
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/obj/x86/Debug/TemplateTest.csprojAssemblyReference.cache
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/obj/x86/Debug/TemplateTest.csproj.CoreCompileInputs.cache
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/obj/x86/Debug/TemplateTest.exe
+/home/lion/Desktop/VSCode/CSharp/TemplateTest/obj/x86/Debug/TemplateTest.pdb
